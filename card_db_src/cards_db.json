@@ -1696,8 +1696,8 @@
         "group_tag": "Colony - Platinum",
         "randomizer": false,
         "types": [
-            "Victory",
-            "Treasure"
+            "Treasure",
+            "Victory"
         ]
     },
     {
