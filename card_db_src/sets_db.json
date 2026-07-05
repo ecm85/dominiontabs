@@ -84,6 +84,21 @@
         "short_name": "Cornucopia",
         "text_icon": "*"
     },
+    "cornucopia2ndEdition": {
+        "all_images": [
+            "cornucopia_set.png",
+            "cornucopia_guilds_set.png"
+        ],
+        "edition": [
+            "2",
+            "latest"
+        ],
+        "image": "cornucopia_guilds_set.png",
+        "set_name": "*cornucopia2ndEdition*",
+        "set_text": "",
+        "short_name": "Cornucopia",
+        "text_icon": "*"
+    },
     "cornucopia2ndEditionUpgrade": {
         "all_images": [
             "cornucopia_set.png",
@@ -100,21 +115,6 @@
         "short_name": "Cornucopia",
         "text_icon": "*",
         "upgrades": "cornucopia1stEdition"
-    },
-     "cornucopia2ndEdition": {
-        "all_images": [
-            "cornucopia_set.png",
-            "cornucopia_guilds_set.png"
-        ],
-        "edition": [
-            "2",
-            "latest"
-        ],
-        "image": "cornucopia_guilds_set.png",
-        "set_name": "*cornucopia2ndEdition*",
-        "set_text": "",
-        "short_name": "Cornucopia",
-        "text_icon": "*"
     },
     "cornucopiaAndGuilds2ndEdition": {
         "all_images": [
@@ -266,6 +266,21 @@
         "short_name": "Guilds",
         "text_icon": "*"
     },
+    "guilds2ndEdition": {
+        "all_images": [
+            "guilds_set.png",
+            "cornucopia_guilds_set.png"
+        ],
+        "edition": [
+            "2",
+            "latest"
+        ],
+        "image": "cornucopia_guilds_set.png",
+        "set_name": "*guilds2ndEdition*",
+        "set_text": "",
+        "short_name": "Guilds",
+        "text_icon": "*"
+    },
     "guilds2ndEditionUpgrade": {
         "all_images": [
             "guilds_set.png",
@@ -282,21 +297,6 @@
         "short_name": "Guilds",
         "text_icon": "*",
         "upgrades": "guilds1stEdition"
-    },
-    "guilds2ndEdition": {
-        "all_images": [
-            "guilds_set.png",
-            "cornucopia_guilds_set.png"
-        ],
-        "edition": [
-            "2",
-            "latest"
-        ],
-        "image": "cornucopia_guilds_set.png",
-        "set_name": "*guilds2ndEdition*",
-        "set_text": "",
-        "short_name": "Guilds",
-        "text_icon": "*"
     },
     "hinterlands1stEdition": {
         "all_images": [

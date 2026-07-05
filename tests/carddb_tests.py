@@ -193,13 +193,17 @@ expected_card_counts = [
     ),
     ExpectedSetCardCount(
         "prosperity1stEdition",
-        25 + 2 + 1,  # 25 kingdom, 2 base (Colony/Platinum), Colony-Platinum group header
+        25
+        + 2
+        + 1,  # 25 kingdom, 2 base (Colony/Platinum), Colony-Platinum group header
         25 + 2 - 1,  # Colony + Platinum grouped into Colony-Platinum
         300 - 25 - 1,  # 300 cards printed, 25 blue kingdom randomizers, 1 blank
     ),
     ExpectedSetCardCount(
         "prosperity2ndEdition",
-        25 + 2 + 1,  # 25 kingdom, 2 base (Colony/Platinum), Colony-Platinum group header
+        25
+        + 2
+        + 1,  # 25 kingdom, 2 base (Colony/Platinum), Colony-Platinum group header
         25 + 2 - 1,  # Colony + Platinum grouped into Colony-Platinum
         300 - 25 - 1,  # 300 cards printed, 25 blue kingdom randomizers, 1 blank
     ),
