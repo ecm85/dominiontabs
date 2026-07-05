@@ -1692,8 +1692,8 @@
             "prosperity2ndEdition"
         ],
         "count": "0",
-        "group_top": true,
         "group_tag": "Colony - Platinum",
+        "group_top": true,
         "randomizer": false,
         "types": [
             "Treasure",
@@ -7231,7 +7231,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Duration",
             "Loot"
@@ -7246,7 +7246,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7260,7 +7260,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Duration",
             "Loot"
@@ -7275,7 +7275,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Duration",
             "Loot"
@@ -7290,7 +7290,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7304,7 +7304,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7318,7 +7318,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Duration",
             "Loot"
@@ -7333,7 +7333,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7347,7 +7347,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7361,7 +7361,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7375,7 +7375,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7389,7 +7389,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Reaction",
             "Loot"
@@ -7404,7 +7404,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Action",
             "Treasure",
             "Loot"
@@ -7419,7 +7419,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Loot"
         ]
@@ -7433,7 +7433,7 @@
         "count": "2",
         "group_tag": "Loot",
         "randomizer": false,
-         "types": [
+        "types": [
             "Treasure",
             "Attack",
             "Loot"
