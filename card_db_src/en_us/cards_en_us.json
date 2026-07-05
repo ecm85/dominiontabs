@@ -2,10 +2,7 @@
     "Abandoned Mine": {
         "description": "+1 Coin",
         "extra": "If any Kingdom card has the type Looter (e.g. Cultist, Death Cart, and Marauder), add the all the Ruins cards (Abandoned Mine, Ruined Library, Ruined Market, Ruined Village, Survivors), shuffle, then count 10 per player after the first: 10 for two players, 20 for three players, 30 for four players, and so on. Put the pile face down with the top card face up. Return any remaining Ruins cards to the box.<n>Players can buy Ruins. Ruins cards are Actions; they may be played in the Action phase, and count as Actions for things that refer to Action cards, such as Procession. The Ruins pile, when used, is in the Supply, and if it is empty that counts towards the normal end condition.",
-        "name": "Abandoned Mine",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Abandoned Mine"
     },
     "Abundance": {
         "description": "The next time you gain an Action card: +1 Buy and +3 Coin.",
@@ -80,10 +77,7 @@
     "Amphora": {
         "description": "Either now or at the start of your next turn:<br>+1 Buy and +3 Coin.",
         "extra": "When playing Amphora, choose whether to get +3 Coin and +1 Buy immediately, or at the start of your next turn.<br>If you choose \"immediately,\" Amphora will be discarded in the same turn's Clean-up; if you choose \"next turn,\" Amphora will be discarded that turn.<br>If you play Amphora multiple times, such as with King's Cache, you choose each time whether to get the +3 Coin and +1 Buy now or next turn, and Amphora only stays in play if at least one of the plays was for next turn (in which case the King's Cache also stays in play).",
-        "name": "Amphora",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Amphora"
     },
     "Amulet": {
         "description": "Now and at the start of your next turn, choose one: +1 Coin; or trash a card from your hand; or gain a Silver.",
@@ -1052,10 +1046,7 @@
     "Doubloons": {
         "description": "3 <*COIN*><line>When you gain this, gain a Gold.",
         "extra": "When you gain this, you also gain a Gold.",
-        "name": "Doubloons",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Doubloons"
     },
     "Druid": {
         "description": "+1 Buy<br>Receive one of the set aside Boons (leaving it there).<line>Setup: Set aside the top 3 Boons, face-up.",
@@ -1140,10 +1131,7 @@
     "Endless Chalice": {
         "description": "Now and at the start of each of your turns for the rest of the game:<br>1 <*COIN*><br><br>+1 Buy",
         "extra": "Once played, this stays in play for the rest of the game.",
-        "name": "Endless Chalice",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Endless Chalice"
     },
     "Engineer": {
         "description": "Gain a card costing up to 4 Coins. You may trash this. If you do, gain a card costing up to 4 Coins.",
@@ -1323,10 +1311,7 @@
     "Figurehead": {
         "description": "3 <*COIN*><br><br>At the start of your next turn, +2 Cards.",
         "extra": "When you play this, you get +3 Coin and at the start of your next turn, you get +2 Cards.",
-        "name": "Figurehead",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Figurehead"
     },
     "Figurine": {
         "description": "+2 Cards<br>You may discard an Action card for +1 Buy and +1 Coin.",
@@ -1693,10 +1678,7 @@
     "Hammer": {
         "description": "3 <*COIN*><br><br>Gain a card costing up to 4 Coin.",
         "extra": "Each time you play this, you get +3 Coin and gain a card costing up to 4 Coin. This isn't optional.",
-        "name": "Hammer",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Hammer"
     },
     "Harbinger": {
         "description": "+1 Card<br>+1 Action<n>Look through your discard pile. You may put a card from it onto your deck.",
@@ -1939,10 +1921,7 @@
     "Insignia": {
         "description": "3 <*COIN*><br><br>This turn, when you gain a card, you may put it onto your deck.",
         "extra": "If you gain multiple cards, this applies to each of them - you can put any or all of them on top of your deck.",
-        "name": "Insignia",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Insignia"
     },
     "Inspiring": {
         "description": "After playing an Inspiring card on your turn, you may play an Action from your hand that you don't have a copy of in play.",
@@ -2007,10 +1986,7 @@
     "Jewels": {
         "description": "3 <*COIN*><br><br>+1 Buy<br>At the start of your next turn, put this on the bottom of your deck.",
         "extra": "When you play this, you get +3 Coin and +1 Buy, and at the start of your next turn, put this on the bottom of your deck.",
-        "name": "Jewels",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Jewels"
     },
     "Journey": {
         "description": "Once per turn: If the previous turn wasn't yours, you don't discard cards from play in Clean-up this turn, and take an extra turn after this one.",
@@ -2576,10 +2552,7 @@
     "Orb": {
         "description": "Look through your discard pile. Choose one: Play an Action or Treasure from it; or +1 Buy and +3 Coin.",
         "extra": "First look through your discard pile; then choose either to play an Action or Treasure from it, or to get +1 Buy and +3 Coin.",
-        "name": "Orb",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Orb"
     },
     "Orchard": {
         "description": "When scoring, 4 <VP> per differently named Action card you have 3 or more copies of.",
@@ -2892,10 +2865,7 @@
     "Prize Goat": {
         "description": "3 <*COIN*><br><br>+1 Buy<br>You may trash a card from your hand.",
         "extra": "Trashing a card is optional.",
-        "name": "Prize Goat",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Prize Goat"
     },
     "Procession": {
         "description": "You may play a non-Duration Action card from your hand twice. Trash it. Gain an Action card costing exactly 1 Coin more than it.",
@@ -2925,10 +2895,7 @@
     "Puzzle Box": {
         "description": "3 <*COIN*><br><br>+1 Buy<br>You may set aside a card from your hand face down. Put it into your hand at end of turn.",
         "extra": "If you set aside a card, the Puzzle Box itself is still discarded normally that turn.<br>The set-aside card goes into your hand after drawing for the next turn.",
-        "name": "Puzzle Box",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Puzzle Box"
     },
     "Quarry": {
         "description": "1 <*COIN*><line>While this is in play, Action cards cost 2 Coins less.",
@@ -3135,26 +3102,17 @@
     "Ruined Library": {
         "description": "+1 Card",
         "extra": "If any Kingdom card has the type Looter (e.g. Cultist, Death Cart, and Marauder), add the all the Ruins cards (Abandoned Mine, Ruined Library, Ruined Market, Ruined Village, Survivors), shuffle, then count 10 per player after the first: 10 for two players, 20 for three players, 30 for four players, and so on. Put the pile face down with the top card face up. Return any remaining Ruins cards to the box.<n>Players can buy Ruins. Ruins cards are Actions; they may be played in the Action phase, and count as Actions for things that refer to Action cards, such as Procession. The Ruins pile, when used, is in the Supply, and if it is empty that counts towards the normal end condition.",
-        "name": "Ruined Library",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Ruined Library"
     },
     "Ruined Market": {
         "description": "+1 Buy",
         "extra": "If any Kingdom card has the type Looter (e.g. Cultist, Death Cart, and Marauder), add the all the Ruins cards (Abandoned Mine, Ruined Library, Ruined Market, Ruined Village, Survivors), shuffle, then count 10 per player after the first: 10 for two players, 20 for three players, 30 for four players, and so on. Put the pile face down with the top card face up. Return any remaining Ruins cards to the box.<n>Players can buy Ruins. Ruins cards are Actions; they may be played in the Action phase, and count as Actions for things that refer to Action cards, such as Procession. The Ruins pile, when used, is in the Supply, and if it is empty that counts towards the normal end condition.",
-        "name": "Ruined Market",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Ruined Market"
     },
     "Ruined Village": {
         "description": "+1 Action",
         "extra": "If any Kingdom card has the type Looter (e.g. Cultist, Death Cart, and Marauder), add the all the Ruins cards (Abandoned Mine, Ruined Library, Ruined Market, Ruined Village, Survivors), shuffle, then count 10 per player after the first: 10 for two players, 20 for three players, 30 for four players, and so on. Put the pile face down with the top card face up. Return any remaining Ruins cards to the box.<n>Players can buy Ruins. Ruins cards are Actions; they may be played in the Action phase, and count as Actions for things that refer to Action cards, such as Procession. The Ruins pile, when used, is in the Supply, and if it is empty that counts towards the normal end condition.",
-        "name": "Ruined Village",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Ruined Village"
     },
     "Ruins": {
         "description": "The ruins pile contains weak and undesirable Action cards. They are in a random order with the top one face-up.",
@@ -3379,10 +3337,7 @@
     "Sextant": {
         "description": "3 <*COIN*><br><br>+1 Buy<br>Look at the top 5 cards of your deck. Discard any number. Put the rest back in any order.",
         "extra": "You can put all 5 cards back, or discard all 5, or anything in between.",
-        "name": "Sextant",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Sextant"
     },
     "Shadows": {
         "description": "These cards all have unique backs, and can be played from your deck.",
@@ -3422,10 +3377,7 @@
     "Shield": {
         "description": "3 <*COIN*><br><br>+1 Buy<line>When another player plays an Attack, you may first reveal this from your hand to be unaffected.",
         "extra": "You can reveal this when another player plays an Attack card to be unaffected by it, exactly as with Moat.<br>You do this before the Attack card has done anything, and can use Shield against multiple Attacks in a turn.<br>Shield stays in your hand and can still be played for +3 Coin and +1 Buy on your turn.",
-        "name": "Shield",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Shield"
     },
     "Shop": {
         "description": "+1 Card<br>+1 coin<br><br>You may play an Action card from your hand that you don’t have a copy of in play.",
@@ -3574,10 +3526,7 @@
     "Spell Scroll": {
         "description": "Trash this to gain a cheaper card. If it's an Action or Treasure, you may play it.",
         "extra": "You can play this in your Action phase or Buy phase; if played in your Action phase, it uses up an Action play for the turn. However playing the card you gain from Spell Scroll does not use up an Action play.",
-        "name": "Spell Scroll",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Spell Scroll"
     },
     "Spice Merchant": {
         "description": "You may trash a Treasure from your hand. If you do, choose one:<n>+2 Cards and +1 Action;<br>or +2 Coins and +1 Buy.",
@@ -3616,10 +3565,7 @@
     "Staff": {
         "description": "3 <*COIN*><br><br>+1 Buy<br>You may play an Action from your hand.",
         "extra": "Playing an Action card from your hand is optional.",
-        "name": "Staff",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Staff"
     },
     "Stampede": {
         "description": "If you have 5 or fewer cards in play, gain 5 Horses onto your deck.",
@@ -3699,10 +3645,7 @@
     "Survivors": {
         "description": "Look at the top 2 cards of your deck. Discard them or put them back in any order.",
         "extra": "If any Kingdom card has the type Looter (e.g. Cultist, Death Cart, and Marauder), add the all the Ruins cards (Abandoned Mine, Ruined Library, Ruined Market, Ruined Village, Survivors), shuffle, then count 10 per player after the first: 10 for two players, 20 for three players, 30 for four players, and so on. Put the pile face down with the top card face up. Return any remaining Ruins cards to the box.<n>Players can buy Ruins. Ruins cards are Actions; they may be played in the Action phase, and count as Actions for things that refer to Action cards, such as Procession. The Ruins pile, when used, is in the Supply, and if it is empty that counts towards the normal end condition.",
-        "name": "Survivors",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Survivors"
     },
     "Swamp Hag": {
         "description": "Until your next turn, when any other player buys a card, he gains a Curse.<n>At the start of your next turn:<n>+3 Coins",
@@ -3737,10 +3680,7 @@
     "Sword": {
         "description": "3 <*COIN*><br><br>+1 Buy<br>Each other player discards down to 4 cards in hand.",
         "extra": "This is an Attack, and so cards like Moat and Shield protect from it.",
-        "name": "Sword",
-        "notes": [
-            "This card is currently not used."
-        ]
+        "name": "Sword"
     },
     "Sycophant": {
         "description": "+1 Action<n>Discard 3 cards. If you discarded at least one, +3 Coins.<line>When you gain or trash this, +2 Favors.",
